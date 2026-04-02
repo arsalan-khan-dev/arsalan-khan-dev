@@ -68,7 +68,6 @@ Projects are deployed using:
 - Vercel for frontend applications
 - Netlify for static and web-based deployments
 - Hostinger for full web app
-- 
 ## Community and Leadership
 
 - Admin of a LinkedIn community focused on AI and Cybersecurity
