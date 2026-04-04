@@ -1,87 +1,191 @@
-# Hi, I am Arsalan Khan
+<div align="center">
 
-Full Stack Developer with expertise in HTML Css  PHP, JavaScript, Java, and Python. Focused on building scalable web applications, AI-driven systems, and cybersecurity solutions.
+# 👾 Arsalan Khan
+### Full Stack Developer · AI & Machine Learning · Cybersecurity
 
-## About Me
+<br/>
 
-I am a BS Software Engineering student with a strong focus on full stack web development, machine learning, and cybersecurity. I actively work on real-world projects, research emerging technologies, and build systems that solve practical problems.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0f3460?style=for-the-badge&logoColor=white)](https://arsalan-khan-dev.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-arsalan-khan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsalan-khan-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsalankhang004@gmail.com)
 
-My work combines development, security, and artificial intelligence, allowing me to create modern and intelligent software solutions.
+</div>
 
-Current focus areas:
-- Full Stack Web Development using PHP, JavaScript, and MySQL
-- Machine Learning and AI-based systems
-- Cybersecurity tools and automation
-- Software Engineering research and technical writing
+---
 
-## Technical Skills
+## 👨‍💻 About Me
 
-Programming Languages:
-HTML, CSS, JavaScript, PHP, Java, Python, SQL
+```python
+class ArsalanKhan:
+    def __init__(self):
+        self.name        = "Arsalan Khan (KTK)"
+        self.degree      = "BS Software Engineering"
+        self.focus       = ["Full Stack Web Dev", "Machine Learning", "Cybersecurity"]
+        self.languages   = ["Python", "PHP", "JavaScript", "Java", "SQL"]
+        self.frameworks  = ["React.js", "Node.js", "REST APIs"]
+        self.portfolio   = "https://arsalan-khan-dev.github.io/portfolio-website/"
+        self.email       = "arsalankhang004@gmail.com"
 
-Technologies and Tools:
-MySQL, Git, GitHub, Java Swing (GUI), REST APIs, Ollama, Netlify, Vercel , Hostinger Deployment
+    def current_work(self):
+        return [
+            "🔭 Building scalable PHP + MySQL web applications",
+            "⚛️  Developing React.js frontends with Node.js backends",
+            "🤖 Creating AI-driven systems using Ollama & Python",
+            "🔐 Researching cybersecurity tools and automation",
+            "📝 Writing: 'Human-AI Collaboration in Software Development'",
+        ]
+```
 
-Domains:
-Web Development, Artificial Intelligence, Machine Learning, Cybersecurity, Automation
+---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### Nova Heaven Store
-A full stack e-commerce web application built using PHP and MySQL. Includes authentication system, product management, and database integration. Deployed and accessible online.
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Parking Lot Management System
-Java-based application demonstrating object oriented programming concepts including system design, class structure, and logic implementation.
+### ⚛️ Frameworks & Runtime
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### House Price Prediction System
-Machine learning project developed in Python that predicts house prices using training data and regression techniques.
+### ⚙️ Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Cybersecurity Chatbot
-AI-powered chatbot built using Ollama that provides cybersecurity guidance and awareness.
+### 🎯 Domains
+![Web Dev](https://img.shields.io/badge/Full%20Stack%20Web%20Dev-0f3460?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-533483?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-c0392b?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-2c3e50?style=flat-square)
 
-### PDF and Word Search Bot
-A document processing tool that extracts and searches data from PDF and Word files efficiently.
+---
 
-### Web Analyzer Tool
-Analyzes websites for structure and basic information for research and learning purposes.
+## 📈 Skill Level
 
-### Text to Speech Generator
-Python-based application that converts written text into speech output.
+```
+Frontend        ████████░░  80%
+Backend         ████████░░  80%
+AI / ML         ███████░░░  70%
+Cybersecurity   ████████░░  80%
+```
 
-### Farm Inventory System
-Java GUI application designed to manage farm inventory, records, and operations.
+---
 
-### Noble School Management System
-Desktop application using Java GUI for handling school data and operations.
+## 💼 Open to Opportunities
 
-## Research and Writing
+- 🚀 Internship (Frontend / Full Stack)
+- 💻 Freelance Web Development Projects
+- 🤝 Collaboration in AI & Cybersecurity Projects
 
-Currently working on research titled:
+---
 
-Human AI Collaboration in Software Development
+## 🚀 Featured Projects
 
-Also working on cybersecurity content writing and planning a technical book in the cybersecurity domain.
+| # | Project | Tech | Description |
+|---|---------|------|-------------|
+| 01 | 🛒 **Nova Heaven Store** | PHP, MySQL | Full-stack e-commerce app with auth & product management |
+| 02 | 🅿️ **Parking Lot Management** | Java, OOP | System design with class structure & logic |
+| 03 | 🏠 **House Price Prediction** | Python, ML | Regression-based price predictor |
+| 04 | 🔐 **Cybersecurity Chatbot** | Python, Ollama | AI-powered cybersecurity guidance bot |
+| 05 | 📄 **PDF & Word Search Bot** | Python | Fast document content extraction tool |
+| 06 | 🌐 **Web Analyzer Tool** | JavaScript | Website structure analyzer |
+| 07 | 🔊 **Text to Speech Generator** | Python | Text to speech converter |
+| 08 | 🚜 **Farm Inventory System** | Java GUI | Desktop farm records management |
+| 09 | 🏫 **Noble School Management** | Java GUI | School data & operations system |
 
-## Deployment Experience
+---
 
-Projects are deployed using:
-- Vercel for frontend applications
-- Netlify for static and web-based deployments
-- Hostinger for full web app
-## Community and Leadership
+## 📊 GitHub Stats
 
-- Admin of a LinkedIn community focused on AI and Cybersecurity
-- Sharing educational content, tools, and practical knowledge related to modern technology
+<div align="center">
 
-## GitHub Goals
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsalan-khan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan-khan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
-- Maintain consistent daily contributions
-- Build production-level applications
-- Improve code quality and documentation standards
-- Contribute to open source and collaborate with developers
+</div>
 
-## Contact
+<br/>
 
-GitHub: https://github.com/arsalan-khan-dev  
-LinkedIn: https://www.linkedin.com/in/-arsalan-khan/  
-Email: arsalankhang004@gmail.com
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arsalan-khan-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arsalan-khan-dev&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 📝 Research & Writing
+
+- 📄 **Current Research:** *Human-AI Collaboration in Software Development*
+- 🔐 **Cybersecurity Content Writing** — Practical security knowledge & awareness
+- 📖 **Upcoming Book** — Technical book in the Cybersecurity domain
+
+---
+
+## 🌐 Community & Leadership
+
+- 👥 **LinkedIn Community Admin** — AI & Cybersecurity focused community
+- 📢 Sharing educational content, tools, and practical tech knowledge regularly
+
+---
+
+## 🎯 2025 Goals
+
+- [x] Build and deploy production-level applications
+- [x] Learn React.js & Node.js for full-stack development
+- [ ] Maintain 100-day GitHub contribution streak
+- [ ] Publish cybersecurity research paper
+- [ ] Launch technical book in cybersecurity
+- [ ] Contribute to open-source projects
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [arsalan-khan-dev.github.io/portfolio-website](https://arsalan-khan-dev.github.io/portfolio-website/) |
+| 💼 LinkedIn | [linkedin.com/in/-arsalan-khan](https://www.linkedin.com/in/-arsalan-khan/) |
+| 🐙 GitHub | [github.com/arsalan-khan-dev](https://github.com/arsalan-khan-dev) |
+| 📧 Email | arsalankhang004@gmail.com |
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arsalan-khan-dev&label=Profile%20Views&color=533483&style=for-the-badge)
+
+<br/><br/>
+
+> *"Code is not just syntax — it's the language of solutions."*
+>
+> — Arsalan Khan
+
+</div>
