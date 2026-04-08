@@ -106,16 +106,13 @@ Cybersecurity   ████████░░  80%
 | 07 | 🔊 **Text to Speech Generator** | Python | Text to speech converter |
 | 08 | 🚜 **Farm Inventory System** | Java GUI | Desktop farm records management |
 | 09 | 🏫 **Noble School Management** | Java GUI | School data & operations system |
-
+| 10 | 🏫 **BofalganPharmacy** | Java GUI | Pharmacy Medcine And POS |
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsalan-khan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan-khan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+/+ML;Automation;Cybersecurity;Researcher+and+Writer" />
 
 </div>
 
