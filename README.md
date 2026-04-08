@@ -106,7 +106,7 @@ Cybersecurity   ████████░░  80%
 | 07 | 🔊 **Text to Speech Generator** | Python | Text to speech converter |
 | 08 | 🚜 **Farm Inventory System** | Java GUI | Desktop farm records management |
 | 09 | 🏫 **Noble School Management** | Java GUI | School data & operations system |
-| 10 | ⚕️ **BofalganPharmacy** | Java GUI | Pharmacy Medcine And POS |
+| 10 | ⚕️ **BofalganPharmacy** | Java GUI | Pharmacy Medcine And POS Software |
 ---
 
 ## 📊 GitHub Stats
