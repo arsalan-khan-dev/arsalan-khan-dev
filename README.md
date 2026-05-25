@@ -108,8 +108,7 @@ Cybersecurity   ████████░░  80%
 | 09 | 🏫 **Noble School Management** | Java GUI | School data & operations system |
 | 10 | ⚕️ **BofalganPharmacy** | Java GUI | Pharmacy Medcine And POS Software |
 | 11 | 🏫 **Greenfield Academy** |  HTML , CSS , JS | Static School website  |
-| 12 | 🏫 ** Brightbyte** |  HTML , CSS , JS | Static Dental Doctors clinic Website  |
-
+| 12 | 🩺**BrightByte** | HTML, CSS, JavaScript | Static website for a dental clinic and doctors |
 ---
 
 ## 📊 GitHub Stats
